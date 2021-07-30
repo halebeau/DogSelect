@@ -54,7 +54,7 @@ video {
  */
 audio:not([controls]) {
   display: none;
-  height: 0; }
+  height: 1; }
 
 /**
  * Add the correct vertical alignment in Chrome, Firefox, and Opera.
